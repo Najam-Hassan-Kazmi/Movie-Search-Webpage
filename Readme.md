@@ -1,6 +1,6 @@
 # 🎥 Movie Search Webpage – HTML, JS & Bootstrap
 
-![Movie Search Banner](assets/banner.jpg)
+![Movie Search Banner](assets/banner.png)
 
 A **responsive, single-page movie search application** powered by the [OMDb API](https://www.omdbapi.com/).  
 Search any movie title and instantly view details like posters, release years, and types — all styled with **Bootstrap** and enhanced with **Toastr** notifications.
