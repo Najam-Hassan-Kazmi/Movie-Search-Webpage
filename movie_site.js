@@ -5,7 +5,7 @@ document.getElementById("searchForm").addEventListener("submit", async function 
 
     const searchQuery = document.getElementById("searchQuery").value;   //Value of what was searched has been captured.
     const apiKey = "cc3bac8f";
-    const url = `http://www.omdbapi.com/?s=${searchQuery}&apikey=cc3bac8f`   //My endpoint
+    const url = `https://www.omdbapi.com/?s=${searchQuery}&apikey=cc3bac8f`   //My endpoint
 
     try {
         const response = await fetch(url);   //Assigning the data I get from the api in responce variable. "await" makes the compiler wait for the request if it takes time.
