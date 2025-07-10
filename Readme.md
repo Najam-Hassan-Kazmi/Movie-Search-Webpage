@@ -68,6 +68,7 @@ This project strengthened understanding of:
 
 ## 📦 Project Structure
 
+```plaintext
 ├── index.html              # Main webpage (HTML + Bootstrap)
 ├── movie_site.js           # JavaScript logic (API fetch + rendering)
 ├── README.md               # Project documentation
@@ -75,6 +76,7 @@ This project strengthened understanding of:
     ├── banner.png
     ├── screenshot1.png     # Search in progress
     └── screenshot2.png     # Displayed movie cards
+```
 
 ---
 
